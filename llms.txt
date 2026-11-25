@@ -1,0 +1,53 @@
+# RC Mobile Mechanic
+
+> Mobile mechanic serving Jacksonville and Orange Park, Florida. Repairs are done at the customer's home, workplace, apartment or parking lot. Open 24 hours. Phone: (904) 750-1894.
+
+RC Mobile Mechanic is a mobile auto repair service (a service-area business with no public shop address) covering Jacksonville, Orange Park and the surrounding Northeast Florida area. It is listed on Google as open 24 hours, 7 days a week, and is rated 4.7 out of 5 from 129 Google reviews. Language assistance is offered. Payment methods: credit cards, debit cards and NFC mobile payments (tap-to-pay).
+
+## Contact
+
+- Phone / text: (904) 750-1894
+- Hours: Open 24 hours, every day
+- Service area: Jacksonville, FL; Orange Park, FL; surrounding Northeast Florida (call to confirm your location)
+
+## Services
+
+- Diagnostics (check-engine light, no-start, noises)
+- Oil change
+- Battery replacement
+- Jump starts
+- Alternator replacement
+- Starter replacement
+- Radiator replacement
+- Coolant leak repair and coolant fluid exchange
+- Water pump replacement
+- Thermostat replacement
+- Spark plugs, ignition coils and spark plug wires
+- Belts and serpentine belts
+- Brakes and calipers
+- Wheel bearings
+- Automotive A/C
+- Control arms
+- Tires
+- Pre-purchase inspections
+
+## Vehicles
+
+Cars, SUVs and trucks, including heavy-duty pickups. Customers mention Toyota, Honda, BMW, Mercedes, Jeep, Ram, Chevy and Hyundai vehicles.
+
+## What customers say (Google reviews)
+
+- "This was the best experience I've ever had with a mechanic. Ray was on time, honest, and didn't overcharge or try to upsell anything I didn't need." (Shay Davis)
+- "Called Ray for a jumpstart while at a grocery around 10pm, he picked up quickly and was at our location helping us within 15 minutes. Highly recommend." (Marsha Rachell)
+- "Water pump went out on my 3500 Ram. He came and assessed the issue less than 30 minutes after contacting him. He went and picked up the parts and fixed pump and belt in less than 2 hours." (RAWDINI)
+- "Came out right to our place of employment to replace the radiator." (Kimberly Watson)
+
+## Pages
+
+- [Home](https://rgwebd.github.io/rcmobilemechanic/)
+- [Services](https://rgwebd.github.io/rcmobilemechanic/services.html)
+- [Our Work (photo gallery)](https://rgwebd.github.io/rcmobilemechanic/work.html)
+- [Reviews](https://rgwebd.github.io/rcmobilemechanic/reviews.html)
+- [Contact, service area, payment & FAQ](https://rgwebd.github.io/rcmobilemechanic/contact.html)
+
+Note: this site is a design preview by RGWebD.
