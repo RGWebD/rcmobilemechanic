@@ -529,3 +529,4 @@ body{overflow-x:clip}
 .h24 .gauge{margin-top:10%}
 @media (max-width:640px){.types{grid-template-columns:1fr}.type{flex-direction:row;align-items:center}}
 [hidden]{display:none!important}
+.car-ctrl{flex-wrap:wrap;row-gap:14px}
